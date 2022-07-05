@@ -14,5 +14,8 @@ public class Calculus {
     public int getSubstractData(){
         return a-b;
     }
+    public int getAdditionData(){
+        return a+b;
+    }
 
 }
