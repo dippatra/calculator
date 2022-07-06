@@ -20,5 +20,8 @@ public class Calculus {
     public int getDivisionData(){
         return a/b;
     }
+    public int getComplexData(){
+        return (a*b)*(a+5);
+    }
 
 }
