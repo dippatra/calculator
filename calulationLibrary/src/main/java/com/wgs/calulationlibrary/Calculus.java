@@ -8,12 +8,6 @@ public class Calculus {
         this.a=a;
         this.b=b;
     }
-    public int getMultiplyData(){
-        return a*b;
-    }
-    public int getSubstractData(){
-        return a-b;
-    }
     public int getAdditionData(){
         return a+b;
     }
