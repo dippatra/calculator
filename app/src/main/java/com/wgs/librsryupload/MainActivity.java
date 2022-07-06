@@ -18,7 +18,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         calculus=new Calculus(10,5);
         text=(TextView) findViewById(R.id.textview);
-        text.setText(String.valueOf(calculus.getMultiplyData()));
+        text.setText(String.valueOf(calculus.getAdditionData()));
 
 
     }

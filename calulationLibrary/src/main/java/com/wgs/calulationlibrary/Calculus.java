@@ -17,5 +17,8 @@ public class Calculus {
     public int getAdditionData(){
         return a+b;
     }
+    public int getDivisionData(){
+        return a/b;
+    }
 
 }
